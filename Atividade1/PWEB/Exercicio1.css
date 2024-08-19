@@ -1,0 +1,97 @@
+body{
+    background-color: #ffffff;
+    color:#333333;
+    font-family: 'Roboto', sans-serif;
+    font-size:  16px;
+}
+
+a{
+    color:rgb(18, 37, 122);
+    text-decoration: underline;
+}
+
+a:hover{
+    color:#0a5b73;
+}
+
+header{
+    background-color: #ff9800;
+    color:#ffffff;
+    padding: 10px 20px;
+}
+
+nav{
+    background-color:rgb(228, 202, 169);
+    float: left;
+    width: 100%;
+}
+
+nav ul{
+    list-style: none;
+    margin-bottom: 0;
+}
+
+nav ul li{
+    display: inline-block;
+    margin-right: 10px;
+}
+
+nav ul li a{
+    padding: 5px 10px;
+}
+
+nav ul li a:hover{
+    color: #0a5b73;
+}
+
+section{
+    background-color: rgb(228, 202, 169);
+    border: 1px solid #e0e0e0;
+    padding: 20px;
+}
+
+aside{
+    background-color: #ff9800;
+    color: #333333;
+    padding: 20px;
+    margin: 20px 0;
+    float: right;
+    width: 25%;
+}
+
+footer{
+    background-color: #ff9800;
+    color: #ffffff;
+    padding: 10px 20px;
+    text-align: right;
+}
+
+ul li{
+    list-style-type: circle;
+    color: rgb(18, 37, 122);
+}
+
+ol li{
+    color: rgb(18, 37, 122);
+}
+
+pre{
+    background-color: rgb(237, 210, 176);
+    padding: 5px 10px;
+}
+
+img{
+    display: block;
+    margin: 45px 25px;
+    border: 1px solid #e0e0e0;
+    max-width: 100%;
+    height: auto;
+}
+
+figure figcaption{
+    text-align: center;
+}
+
+table{
+    border: 1px solid black;
+}
