@@ -1,0 +1,48 @@
+body{
+    background-color: lightgrey;
+}
+
+main{
+    background-image: linear-gradient( to bottom, rgba(82, 76, 76, 0.637), rgba(63, 63, 63, 0.637));
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 25px 25px;
+    padding: 10px 15px;
+    border: #000000;
+    border-radius: 10px;
+}
+
+
+a{
+    color:rgb(0, 0, 0);
+    text-decoration: underline;
+}
+
+h1{
+    text-align: center;
+}
+
+nav ul li{
+    display: grid;
+    text-align: center;
+    margin-right: 15px;
+}
+
+h2{
+    text-align: center;
+}
+
+section ol li{
+    justify-items: auto;
+}
+
+div img{
+    display: block;
+    margin: 45px 25px;
+    border: 1px solid #e0e0e0;
+    max-width: 100%;
+    height: auto;
+}
+
+.imagens{
+    width: 25%;
+}
