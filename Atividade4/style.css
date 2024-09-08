@@ -1,0 +1,71 @@
+body{
+    background-image: url(background-image.jpg);
+    color: aliceblue;
+}
+
+main{
+    font-family:'Times New Roman', Times, serif;
+    font-size: large;
+}
+
+header{
+    text-align: center;
+    background-color: rgba(20, 61, 20, 0.959);
+    opacity: 200%;
+}
+
+article{
+    height: 100%;
+    width: 73%;
+    padding: 10px;
+    padding-bottom: 3%;
+    float: left;
+    background-color: rgba(73, 48, 16, 0.959);
+}
+
+aside{ 
+    height: 100%;
+    width: 30%;
+    float: right; 
+    position: fixed;
+            top: 0;
+            right: 0;
+}
+aside img{
+    width: 100%;
+    margin-top: 150px;
+    margin-left: 15px;
+}
+
+aside figcaption{
+    width: 100%;
+    text-align: center;
+    padding-left: 30px;
+}
+
+aside figcaption a{
+    color: aliceblue;
+}
+
+aside p{
+    width: 100%;
+    text-align: center;
+    padding-left: 30px;
+}
+
+footer{
+    height: 100%;
+    width: 73%;
+    padding: 10px;
+    padding-bottom: 3%;
+    float: left;
+    background-color: rgba(73, 48, 16, 0.959);
+}
+
+.principal{
+    font-size: x-large;
+}
+
+ul li{
+    margin-bottom: 8px;
+}
