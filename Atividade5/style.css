@@ -1,0 +1,41 @@
+@media screen and (max-width: 420px){
+    #titulo{
+        color: rgb(13, 53, 53);
+    }
+}
+
+@media screen and (min-width: 421px) and (max-width: 768px){
+    #titulo{
+        color: rgb(208, 115, 39);
+    }
+}
+
+@media screen and (min-width:769px) and (max-width: 1024px){
+    #titulo{
+        color: rgb(228, 46, 216);
+    }
+}
+
+@media screen and (min-width:1025px) and (max-width: 1080px){
+    #titulo{
+        color: rgb(164, 70, 60);
+    }
+}
+
+@media screen and (min-width: 1081px) and (max-width: 1366px){
+    #titulo{
+        color: rgb(84, 19, 116);
+    }
+}
+
+@media screen and (min-width: 1367px) and (max-width: 1920px){
+    #titulo{
+        color: rgb(251, 243, 12);
+    }
+}
+
+@media screen and (min-width: 1921px){
+    #titulo{
+        color: rgb(68, 198, 39);
+    }
+}
