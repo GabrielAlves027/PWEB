@@ -1,0 +1,35 @@
+div{
+    margin-top: 250px;
+    align-items: center;
+    justify-items: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+label{
+    margin-bottom: 10px;
+}
+
+input{
+    margin-bottom: 10px;
+}
+
+button{
+    margin-bottom: 10px;
+}
+
+body{
+    background-color: aquamarine;
+}
+
+#resultado{
+    margin-top: -200px;
+    border: 1px solid;
+    width: 300px;
+}
+
+#escolha{
+    margin-top: 200px;
+    border: 1px solid;
+    width: 300px;
+}
